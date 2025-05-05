@@ -29,8 +29,12 @@ This script automates sending messages in the WhatsApp application. It allows th
    ```sh
    python SpamChat.py 5 "Hello, this is an automated message!"
    ```
+<img src="https://github.com/user-attachments/assets/ba4af2e8-80b3-4edc-a5f3-b01eb579393d" width="500" height="auto">
+
 3. Switch to the WhatsApp chat window within 5 seconds.
 4. The script will start sending messages automatically.
+<img src="https://github.com/user-attachments/assets/f4fb8d75-c1a3-4fcd-925d-426c2a82fcbc" width="500" height="auto">
+
 
 ## Notes
 - Ensure WhatsApp Web or the WhatsApp application is open and active.
